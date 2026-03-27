@@ -12,6 +12,15 @@ Atualmente em transição de carreira, trago comigo o rigor técnico e a busca p
 
 ---
 
+## 🔍 Sobre Mim
+
+Sou uma profissional em transição de carreira, migrando do universo de **Hardware de Alta Performance** para o **Desenvolvimento de Software Full Stack**. Como **Especialista Apple**, desenvolvi um olhar clínico para a resolução de problemas complexos e uma atenção rigorosa aos detalhes — competências que agora aplico na escrita de códigos limpos e escaláveis.
+
+### 🎯 O Diferencial Apple no Código
+Minha trajetória técnica ensinou-me que a tecnologia atinge o seu potencial máximo quando o hardware e o software operam em perfeita sintonia. Trago essa mentalidade para o desenvolvimento: se um componente (físico ou lógico) pode ser otimizado, ele será. Meu objetivo é entregar softwares com a mesma fluidez e confiabilidade de um ecossistema premium.
+
+---
+
 ## 🛠️ Tech Stack & Expertise
 
 ### 🚀 Backend & Performance:
@@ -26,6 +35,7 @@ Atualmente em transição de carreira, trago comigo o rigor técnico e a busca p
 <p align="left">
   <img src="https://img.shields.io/badge/Apple_Certified_Technician-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/macOS_Expert-000000?style=for-the-badge&logo=macos&logoColor=white">
+  <img src="https://img.shields.io/badge/Hardware_Troubleshooting-666666?style=for-the-badge">
 </p>
 
 ---
