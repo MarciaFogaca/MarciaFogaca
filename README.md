@@ -1,29 +1,20 @@
 # Márcia Telles Fogaça 👋
 
-### 💻 Full Stack Developer em Transição de Carreira (Expertise Apple)
-
-Atualmente em transição de carreira, trago comigo o rigor técnico e a busca pela perfeição lapidados em anos de experiência como **Técnica de Hardware Certificada Apple**. Minha missão agora é aplicar esse padrão de excelência no desenvolvimento de software **Full Stack**.
-
----
-
 <p align="center">
-  <img src="https://i.imgur.com/2sO97gN.gif" alt="Banner Tech Márcia Telles" width="100%">
+  <img src="https://raw.githubusercontent.com/MarciaFogaca/MarciaFogaca/main/banner.gif" alt="Banner Interativo Márcia Telles" width="100%">
 </p>
 
----
+## 👨‍💻 Sobre Mim
 
-## 🔍 Sobre Mim
+Sou uma profissional em **transição de carreira**, migrando do universo de Hardware de Alta Performance para o **Desenvolvimento de Software Full Stack**. 
 
-Sou uma profissional em transição de carreira, migrando do universo de **Hardware de Alta Performance** para o **Desenvolvimento de Software Full Stack**. Como **Especialista Apple**, desenvolvi um olhar clínico para a resolução de problemas complexos e uma atenção rigorosa aos detalhes — competências que agora aplico na escrita de códigos limpos e escaláveis.
-
-### 🎯 O Diferencial Apple no Código
-Minha trajetória técnica ensinou-me que a tecnologia atinge o seu potencial máximo quando o hardware e o software operam em perfeita sintonia. Trago essa mentalidade para o desenvolvimento: se um componente (físico ou lógico) pode ser otimizado, ele será. Meu objetivo é entregar softwares com a mesma fluidez e confiabilidade de um ecossistema premium.
+Como **Especialista Apple Certificada**, trago comigo um olhar clínico para a resolução de problemas e uma atenção rigorosa aos detalhes — competências que agora aplico na escrita de códigos limpos e performáticos. Acredito na sinergia entre hardware e software para criar experiências de usuário excepcionais.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🚀 Tecnologias & Ferramentas
 
-### 🚀 Backend & Performance:
+### **Backend & Performance**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -31,7 +22,13 @@ Minha trajetória técnica ensinou-me que a tecnologia atinge o seu potencial m�
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
-### 🍎 Expertise Apple (O Endosso da minha Qualidade):
+### **Frontend & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### **Expertise Apple (O meu Diferencial)**
 <p align="left">
   <img src="https://img.shields.io/badge/Apple_Certified_Technician-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/macOS_Expert-000000?style=for-the-badge&logo=macos&logoColor=white">
@@ -40,7 +37,7 @@ Minha trajetória técnica ensinou-me que a tecnologia atinge o seu potencial m�
 
 ---
 
-## 📈 Estatísticas de Contribuição
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarciaFogaca&show_icons=true&theme=dracula&count_private=true" height="150px">
@@ -50,14 +47,14 @@ Minha trajetória técnica ensinou-me que a tecnologia atinge o seu potencial m�
 
 ---
 
-## 📫 Vamos nos conectar?
+## 🌐 Meus Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marciatelles/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:marcia.t.fogaca@gmail.com">
+  <a href="mailto:marciatellesfogaca@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -65,4 +62,4 @@ Minha trajetória técnica ensinou-me que a tecnologia atinge o seu potencial m�
 <p align="center">Nova Iguaçu, RJ 📍</p>
 
 ---
-*"Hardware e Software são as duas faces da mesma moeda: a tecnologia que transforma o mundo."*
+*"A persistência é o caminho do sucesso."*
